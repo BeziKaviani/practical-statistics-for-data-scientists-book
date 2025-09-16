@@ -54,34 +54,6 @@ O'Reilly Media, Inc. — Second Edition (2020)
 
 ---
 
-## 📁 Project Structure
-practical-statistics-for-data-scientists-book/
-│
-├── chapter-01/ # Introduction
-│ ├── data/ # Chapter datasets
-│ ├── notebooks/ # Jupyter notebooks
-│ ├── scripts/ # Python scripts
-│ └── README.md # Chapter summary
-│
-├── chapter-02/ # Sampling and Distributions
-├── chapter-03/ # Statistical Experiments
-├── chapter-04/ # Regression and Prediction
-├── chapter-05/ # Classification
-├── chapter-06/ # Statistical Machine Learning
-├── chapter-07/ # Unsupervised Learning
-│
-├── projects/ # End-to-end projects
-├── resources/ # Additional resources
-│ ├── cheatsheets/ # Statistical cheatsheets
-│ ├── datasets/ # Additional datasets
-│ └── references/ # Supplementary materials
-│
-├── requirements.txt # Python dependencies
-├── LICENSE # MIT License
-└── README.md # You are here
-
-
----
 
 ## 🛠️ Technology Stack
 
@@ -99,7 +71,7 @@ practical-statistics-for-data-scientists-book/
 
 1.  **Clone the repo:**
     ```
-    git clone https://github.com/YOUR_USERNAME/practical-statistics-for-data-scientists-book.git
+    git clone https://github.com/BeziKaviani/practical-statistics-for-data-scientists-book.git
     ```
 2.  **Install dependencies:**
     ```
