@@ -98,16 +98,16 @@ practical-statistics-for-data-scientists-book/
 ## 🚀 Getting Started
 
 1.  **Clone the repo:**
-    ```bash
+    ```
     git clone https://github.com/YOUR_USERNAME/practical-statistics-for-data-scientists-book.git
     ```
 2.  **Install dependencies:**
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 3.  **Open the Jupyter Notebook for the chapter you're interested in.**
 4.  **Run the code cells** and follow along with the explanations in the comments and markdown cells.
-
+---
 
 ## 🤝 Contributing
 
@@ -120,13 +120,15 @@ Additional examples that complement the book
 Corrections for any errors
 
 Please feel free to open an Issue or start a Discussion. All constructive feedback is welcome!
+---
 
 ## 📜 License
 
 The original code and personal notes in this repository are licensed under the MIT License - see the LICENSE file for details.
 
 Please note: This license applies only to the original work in this repository. It does not grant any rights to the content of the original book, which is protected by copyright owned by the authors and O'Reilly Media.
-<hr>
+---
+
 <div align="center">
 <sub><em>This repository is maintained with passion for statistics and data science.</em></sub><br>
 <sub><em>If you find this resource helpful, please give it a ⭐!</em></sub>
