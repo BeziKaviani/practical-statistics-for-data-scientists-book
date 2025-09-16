@@ -1,0 +1,47 @@
+# Practical Statistics for Data Scientists - Core Requirements
+# Python 3.8+ compatible
+
+# Core Data Manipulation
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.10.1
+
+# Statistical Analysis
+statsmodels==0.14.0
+scikit-learn==1.3.0
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Machine Learning & Advanced Statistics
+xgboost==1.7.6
+lightgbm==4.1.0
+imbalanced-learn==0.10.1
+
+# Utilities & File Handling
+jupyter==1.0.0
+jupyterlab==4.0.6
+notebook==7.0.6
+ipython==8.14.0
+
+# Data Processing
+openpyxl==3.1.2        # Excel file support
+pyarrow==12.0.1        # Parquet/Feather support
+sqlalchemy==2.0.20     # Database connectivity
+
+# Optional but Recommended
+yellowbrick==1.5        # Visual analysis and diagnostic tools
+missingno==0.5.2        # Missing data visualization
+dtale==3.6.0           # Interactive data exploration
+
+# Development Tools
+black==23.7.0          # Code formatting
+flake8==6.0.0          # Code linting
+pre-commit==3.3.3      # Git hooks
+
+# Package Management
+pip==23.2.1
+setuptools==68.0.0
+wheel==0.41.2

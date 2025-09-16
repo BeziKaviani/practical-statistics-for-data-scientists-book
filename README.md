@@ -70,7 +70,7 @@ O'Reilly Media, Inc. — Second Edition (2020)
 ## 🚀 Getting Started
 
 1.  **Clone the repo:**
-    ```
+    ```bash
     git clone https://github.com/BeziKaviani/practical-statistics-for-data-scientists-book.git
     ```
 2.  **Install dependencies:**
