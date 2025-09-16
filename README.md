@@ -1,39 +1,107 @@
-# 📊 Practical Statistics for Data Scientists — Code Repository
+# Practical Statistics for Data Scientists - Python Code Companion 📘🐍
 
-<p align="center">
-  <img src="https://m.media-amazon.com/images/I/81o9j4r+JfL._SL1500_.jpg" alt="Practical Statistics for Data Scientists" width="300"/>
-</p>
+![GitHub](https://img.shields.io/github/license/YOUR_USERNAME/practical-statistics-for-data-scientists-book?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Development-6DA57F?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+![Book Edition](https://img.shields.io/badge/Edition-2nd%20Edition-ff69b4?style=for-the-badge)
 
-[![CI](https://img.shields.io/github/actions/workflow/status/USERNAME/practical-statistics-for-data-scientists-book/ci.yml?branch=main)](https://github.com/USERNAME/practical-statistics-for-data-scientists-book/actions)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)](#)
-[![Stars](https://img.shields.io/github/stars/USERNAME/practical-statistics-for-data-scientists-book?style=social)](https://github.com/USERNAME/practical-statistics-for-data-scientists-book/stargazers)
-
----
-
-## 📖 About the Book
-This repository contains my code, exercises, and experiments based on the book  
-**Practical Statistics for Data Scientists (2nd Edition)**.  
-
-👤 Authors: *Peter Bruce, Andrew Bruce, Peter Gedeck*  
-📚 Publisher: *O’Reilly Media* (2019)  
-🔗 [O’Reilly page](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/) | [Amazon](https://www.amazon.com/dp/149207294X)  
+![Book Cover](https://learning.oreilly.com/library/cover/9781492072935/250w/)
 
 ---
 
-## 🎯 Purpose
-- Rewriting and practicing the examples from the book  
-- Building a clean, modern Python reference for statistical methods  
-- Learning practical statistics for **data science and machine learning**  
+## 📚 Original Book Reference
+
+This repository contains **Python code implementations, detailed explanations, and personal notes** based on the excellent book:
+
+### **"Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python"**
+
+**👨‍💻 Authors:**  
+- Peter Bruce (Founder of Institute for Statistics Education at Statistics.com)  
+- Andrew Bruce (Principal Research Scientist at Amazon)  
+- Peter Gedeck (Senior Data Scientist at Collaborative Drug Discovery)  
+
+**🏢 Publisher:**  
+O'Reilly Media, Inc. — Second Edition (2020)  
+
+**🔗 Official Book Link:**  
+[https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+
+**📖 ISBN:** 978-1-492-07293-5  
 
 ---
 
-## 🗂️ Project Structure
-```bash
+## ⚠️ Copyright Notice
+
+> **Important:** This repository is a **code companion and educational supplement** only.  
+>  
+> **All rights to the original book content, text, and intellectual property belong exclusively to:**  
+> - The authors (Peter Bruce, Andrew Bruce, Peter Gedeck)  
+> - The publisher (O'Reilly Media, Inc.)  
+>  
+> This project does not contain any copied text from the book. It consists of **original code implementations and personal study notes** created while working through the book's concepts. Please support the authors and publisher by purchasing the official book.
+
+---
+
+## 🎯 Purpose of This Repository
+
+- **Hands-on Learning:** Implementing statistical concepts in Python for better understanding  
+- **Knowledge Sharing:** Creating a resource for the data science community  
+- **Reference Guide:** Building a practical code reference for everyday statistical tasks  
+- **Educational Tool:** Supplementing the book with executable Python examples  
+
+---
+
+## 📁 Project Structure
 practical-statistics-for-data-scientists-book/
- ├─ notebooks/   # Jupyter notebooks, chapter by chapter
- ├─ data/        # Sample datasets (open data only)
- ├─ src/         # Clean Python scripts
- ├─ images/      # Generated figures and plots
- ├─ README.md
- └─ LICENSE
+│
+├── chapter-01/ # Introduction
+│ ├── data/ # Chapter datasets
+│ ├── notebooks/ # Jupyter notebooks
+│ ├── scripts/ # Python scripts
+│ └── README.md # Chapter summary
+│
+├── chapter-02/ # Sampling and Distributions
+├── chapter-03/ # Statistical Experiments
+├── chapter-04/ # Regression and Prediction
+├── chapter-05/ # Classification
+├── chapter-06/ # Statistical Machine Learning
+├── chapter-07/ # Unsupervised Learning
+│
+├── projects/ # End-to-end projects
+├── resources/ # Additional resources
+│ ├── cheatsheets/ # Statistical cheatsheets
+│ ├── datasets/ # Additional datasets
+│ └── references/ # Supplementary materials
+│
+├── requirements.txt # Python dependencies
+├── LICENSE # MIT License
+└── README.md # You are here
+
+
+---
+
+## 🛠️ Technology Stack
+
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
+- ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white)  
+- ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)  
+- ![Statsmodels](https://img.shields.io/badge/Statsmodels-8CAAE6?style=flat&logo=python&logoColor=white)  
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```git clone https://github.com/YOUR_USERNAME/practical-statistics-for-data-scientists-book.git
+   cd practical-statistics-for-data-scientists-book```
+2. **Install dependencies:**
+    ```pip install -r requirements.txt```
+3. **Explore chapters:**  
+    ```jupyter notebook chapter-01/notebooks/```
