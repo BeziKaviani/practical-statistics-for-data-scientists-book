@@ -80,6 +80,7 @@ O'Reilly Media, Inc. — Second Edition (2020)
 3.  **Open the Jupyter Notebook for the chapter you're interested in.**
 4.  **Run the code cells** and follow along with the explanations in the comments and markdown cells.
 
+---
 
 ## 🤝 Contributing
 
@@ -93,6 +94,7 @@ Corrections for any errors
 
 Please feel free to open an Issue or start a Discussion. All constructive feedback is welcome!
 
+---
 
 ## 📜 License
 
