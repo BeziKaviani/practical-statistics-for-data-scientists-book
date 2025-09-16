@@ -1,11 +1,10 @@
 # Practical Statistics for Data Scientists - Python Code Companion 📘🐍
 
-![GitHub](https://img.shields.io/github/license/YOUR_USERNAME/practical-statistics-for-data-scientists-book?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/BeziKaviani/practical-statistics-for-data-scientists-book?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active%20Development-6DA57F?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![Book Edition](https://img.shields.io/badge/Edition-2nd%20Edition-ff69b4?style=for-the-badge)
 
@@ -99,8 +98,8 @@ practical-statistics-for-data-scientists-book/
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   ```git clone https://github.com/YOUR_USERNAME/practical-statistics-for-data-scientists-book.git
-   cd practical-statistics-for-data-scientists-book```
+   ```git clone https://github.com/YOUR_USERNAME/practical-statistics-for-data-scientists-book.git```
+   ```cd practical-statistics-for-data-scientists-book```
 2. **Install dependencies:**
     ```pip install -r requirements.txt```
 3. **Explore chapters:**  
