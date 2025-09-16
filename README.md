@@ -128,6 +128,7 @@ The original code and personal notes in this repository are licensed under the M
 
 Please note: This license applies only to the original work in this repository. It does not grant any rights to the content of the original book, which is protected by copyright owned by the authors and O'Reilly Media.
 
+---
 
 <div align="center">
 <sub><em>This repository is maintained with passion for statistics and data science.</em></sub><br>
