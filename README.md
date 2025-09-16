@@ -94,7 +94,6 @@ Corrections for any errors
 
 Please feel free to open an Issue or start a Discussion. All constructive feedback is welcome!
 
----
 
 ## 📜 License
 
