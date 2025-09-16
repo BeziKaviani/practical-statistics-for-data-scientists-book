@@ -126,6 +126,7 @@ Please feel free to open an Issue or start a Discussion. All constructive feedba
 The original code and personal notes in this repository are licensed under the MIT License - see the LICENSE file for details.
 
 Please note: This license applies only to the original work in this repository. It does not grant any rights to the content of the original book, which is protected by copyright owned by the authors and O'Reilly Media.
+<hr>
 <div align="center">
 <sub><em>This repository is maintained with passion for statistics and data science.</em></sub><br>
 <sub><em>If you find this resource helpful, please give it a ⭐!</em></sub>
