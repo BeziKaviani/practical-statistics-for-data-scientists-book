@@ -5,6 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Development-6DA57F?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 ![Book Edition](https://img.shields.io/badge/Edition-2nd%20Edition-ff69b4?style=for-the-badge)
 
